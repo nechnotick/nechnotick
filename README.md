@@ -2,7 +2,7 @@
 
 ## 🌟 Data Scientist | Astrophysicist
 
-## 📧 Contact Information
+## 📞 Contact Information
 - 📧 Email: nechnotick@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/neo-namane/](https://www.linkedin.com/in/neo-namane/)
 - 🐦 Twitter: [twitter.com/nechnotick/](https://twitter.com/nechnotick/)
@@ -23,6 +23,9 @@ Currently building a 3D printed telescope for astronomical observations
 
 ### Machine Learning Model for Cosmological Data Analysis
 Developing a machine learning model to identify and segment radio images
+
+### Google and AWS certification
+Working on acquiring certification for both Google and AWS cloud services
 
 ## 🌟 Work Experience
 - Student Assistant
@@ -52,10 +55,6 @@ Developing a machine learning model to identify and segment radio images
 | Cosmology            | ⭐️⭐️⭐️⭐️    |
 | LaTeX                | ⭐️⭐️⭐️⭐️⭐️  |
 | Git & GitHub         | ⭐️⭐️⭐️⭐️    |
-
-## 🏆 Social Proof & Badges
-![GitHub Contributions](https://img.shields.io/github/contributions/nechnotick)
-[![GitHub stars](https://img.shields.io/github/stars/nechnotick)](https://github.com/nechnotick)
 
 ## 📫 Let's Connect & Collaborate
 👉 Feel free to reach out to me for collaborations, project ideas, or discussions!
