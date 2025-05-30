@@ -10,7 +10,6 @@
 ## 💻 Skills & Expertise
 - Data Analysis
 - Statistical Modeling
-- Machine Learning
 - Python Programming
 - Astrophysics
 - Cosmology
