@@ -49,7 +49,7 @@ Working on acquiring certification for both Google and AWS cloud services
 | Data Analysis        | ⭐️⭐️⭐️⭐️⭐️  |
 | Statistical Modeling | ⭐️⭐️⭐️      |
 | Machine Learning     | ⭐️          |
-| Python Programming   | ⭐️⭐️⭐️⭐️    |
+| Python Programming   | ⭐️⭐️⭐️      |
 | Astrophysics         | ⭐️⭐️⭐️⭐️⭐️  |
 | Cosmology            | ⭐️⭐️⭐️⭐️    |
 | LaTeX                | ⭐️⭐️⭐️⭐️⭐️  |
